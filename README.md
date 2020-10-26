@@ -3,18 +3,18 @@ HTML sebagai script dasar pemograman web
 ```
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="description" content="Software Akuntansi Online">
-  <meta name="keywords" content="HTML, CSS, JavaScript, Accounting, Akuntansi, Tutorial, Online, Software, Aplikasi, Web">
-  <meta name="author" content="Budiono">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Page Title</title>
-</head>
-<body>
-  <form> berisi form </form>
-  <script>/* berisi script javascript */</script>
-</body>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Software Akuntansi Online">
+    <meta name="keywords" content="HTML, CSS, JavaScript, Accounting, Akuntansi, Tutorial, Online, Software, Aplikasi, Web">
+    <meta name="author" content="Budiono">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Akuntansi Online - Rangkaidata.com</title>
+  </head>
+  <body>
+    <form> berisi form </form>
+    <script>/* berisi script javascript */</script>
+  </body>
 </html> 
 ```
 
@@ -37,7 +37,7 @@ Dari Script dasar HTML diatas, dapat dijelaskan sebagai berikut:
   <meta name="keywords" content="HTML, CSS, JavaScript, Accounting, Akuntansi, Tutorial, Online, Software, Aplikasi, Web">
   <meta name="author" content="Budiono">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Page Title</title>
+  <title>Akuntansi Online - Rangkaidata.com</title>
 </head>
 
 ```
